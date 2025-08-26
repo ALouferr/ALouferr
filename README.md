@@ -56,7 +56,7 @@
 </td>
 <td align="center">
   💼 LinkedIn<br>
-  <a href="[https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/louren%C3%A7o-ferreira-a165282a5/)">linkedin.com/in/lourenço-ferreira-a165282a5</a>
+  <a href="https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/louren%C3%A7o-ferreira-a165282a5/)">linkedin.com/in/lourenço-ferreira-a165282a5</a>
 </td>
 <td align="center">
   🖥️ GitHub<br>
