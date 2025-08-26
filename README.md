@@ -7,7 +7,7 @@
 
 ---
 
-## 🖥️ Dashboard de Skills
+## 🖥️Skills
 
 <table>
 <tr>
@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ALouferr&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALouferr&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </p>
 
 ---
@@ -53,17 +53,14 @@
 
 <table>
 <tr>
-<td align="center">
-  ✉️ Email<br>
-  <a href="mailto:seuemail@email.com">seuemail@email.com</a>
 </td>
 <td align="center">
   💼 LinkedIn<br>
-  <a href="https://linkedin.com/in/seu-perfil">linkedin.com/in/seu-perfil</a>
+  <a href="[https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/louren%C3%A7o-ferreira-a165282a5/)">linkedin.com/in/lourenço-ferreira-a165282a5</a>
 </td>
 <td align="center">
   🖥️ GitHub<br>
-  <a href="https://github.com/SEU-USUARIO">github.com/SEU-USUARIO</a>
+  <a href="https://github.com/ALouferr">github.com/ALouferr</a>
 </td>
 </tr>
 </table>
