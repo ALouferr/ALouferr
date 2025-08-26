@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Programador animado"/>
+  <img src="https://media1.tenor.com/m/1fRqTq37xLoAAAAd/gato-programador.gif" width="200" alt="Programador animado"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Lourenço Ferreira</h1>
